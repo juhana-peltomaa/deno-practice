@@ -29,5 +29,5 @@ CREATE TABLE project_issues (
 :heavy_exclamation_mark: When application is ran locally and deleting projects, the template will load a message indicating the success of deletion. This is not show when application is ran in Heroku.
  - Projects with existing issues will not be deleted until all issues in project are resolved
 
-:heavy_exclamation_mark: Application has no take on security or validations of entries, just used to practice basics 
+:heavy_exclamation_mark: Application has no take on e.g. styling, security, validations of entries - just used to practice basics 
 
